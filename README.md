@@ -1,20 +1,20 @@
-Repositório contendo algumas questões do The Huxley
+## Repositório contendo algumas questões do The Huxley
 
-Q7    - Calculadora
-Q155  - Pão a Metro
-Q241  - Onde está o Mármore?
-Q272  - Produto Simples
-Q412  - Feed de Notícias
-Q441  - Guerra Sazonal
-Q596  - Ambrósio e as Ilhas
-Q684  - Carteiro
-Q685  - Pacman
-Q746  - Multiplicação de Matrizes
-Q796  - Compotencia
-Q821  - Bitmap
-Q845  - Willy Ecológico
-Q1171 - Count Sort
-Q1860 - Imposto Real
-Q2045 - Inversion Count
-Q2180 - O macaco e o bambu oleoso
-Q2196 - Ajude Seu Madruga
+* Q7    - Calculadora - http://thehuxley.com/problem/7
+* Q155  - Pão a Metro - http://thehuxley.com/problem/155
+* Q241  - Onde está o Mármore? - http://thehuxley.com/problem/241
+* Q272  - Produto Simples - http://thehuxley.com/problem/272
+* Q412  - Feed de Notícias - http://thehuxley.com/problem/412
+* Q441  - Guerra Sazonal - http://thehuxley.com/problem/441
+* Q596  - Ambrósio e as Ilhas - http://thehuxley.com/problem/596
+* Q684  - Carteiro - http://thehuxley.com/problem/684
+* Q685  - Pacman - http://thehuxley.com/problem/685
+* Q746  - Multiplicação de Matrizes - http://thehuxley.com/problem/746
+* Q796  - Compotencia - http://thehuxley.com/problem/796
+* Q821  - Bitmap - http://thehuxley.com/problem/821
+* Q845  - Willy Ecológico - http://thehuxley.com/problem/845
+* Q1171 - Count Sort - http://thehuxley.com/problem/1171
+* Q1860 - Imposto Real - http://thehuxley.com/problem/1860
+* Q2045 - Inversion Count - http://thehuxley.com/problem/2045
+* Q2180 - O macaco e o bambu oleoso - http://thehuxley.com/problem/2180
+* Q2196 - Ajude Seu Madruga - http://thehuxley.com/problem/2196
