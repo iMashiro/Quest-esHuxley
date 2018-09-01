@@ -13,6 +13,7 @@
 * Q796  - Compotencia - http://thehuxley.com/problem/796
 * Q821  - Bitmap - http://thehuxley.com/problem/821
 * Q845  - Willy Ecológico - http://thehuxley.com/problem/845
+* Q874  - Corte de Hastes - http://thehuxley.com/problem/874
 * Q1171 - Count Sort - http://thehuxley.com/problem/1171
 * Q1860 - Imposto Real - http://thehuxley.com/problem/1860
 * Q2045 - Inversion Count - http://thehuxley.com/problem/2045
