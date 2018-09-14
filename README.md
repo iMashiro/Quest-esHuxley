@@ -2,6 +2,7 @@
 
 * Q7    - Calculadora - http://thehuxley.com/problem/7
 * Q155  - Pão a Metro - http://thehuxley.com/problem/155
+* Q197  - Matriz Caracol - http://thehuxley.com/problem/197
 * Q241  - Onde está o Mármore? - http://thehuxley.com/problem/241
 * Q272  - Produto Simples - http://thehuxley.com/problem/272
 * Q412  - Feed de Notícias - http://thehuxley.com/problem/412
