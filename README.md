@@ -13,6 +13,7 @@
 * Q746  - Multiplicação de Matrizes - http://thehuxley.com/problem/746
 * Q789  - Esta solução do Sudoku está correta? - http://thehuxley.com/problem/789
 * Q796  - Compotencia - http://thehuxley.com/problem/796
+* Q812  - Saldo de gols - http://thehuxley.com/problem/812
 * Q821  - Bitmap - http://thehuxley.com/problem/821
 * Q845  - Willy Ecológico - http://thehuxley.com/problem/845
 * Q874  - Corte de Hastes - http://thehuxley.com/problem/874
