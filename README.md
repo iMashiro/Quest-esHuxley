@@ -12,6 +12,7 @@
 * Q0685  - Pacman - http://thehuxley.com/problem/685
 * Q0746  - Multiplicação de Matrizes - http://thehuxley.com/problem/746
 * Q0789  - Esta solução do Sudoku está correta? - http://thehuxley.com/problem/789
+* Q0790  - Mochila - http://thehuxley.com/problem/790
 * Q0796  - Compotencia - http://thehuxley.com/problem/796
 * Q0812  - Saldo de gols - http://thehuxley.com/problem/812
 * Q0821  - Bitmap - http://thehuxley.com/problem/821
